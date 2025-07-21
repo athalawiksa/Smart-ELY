@@ -17,3 +17,7 @@
 - Composer
 - Laravel
 - Web browser
+
+### 🌐 Web Access
+
+[🔗 Visit the Smart-ELY Website](https://www.smart-ely.com)
